@@ -11,26 +11,9 @@ responsive and with dark mode.
 
 ## Resources
 
-*   [a link](https://github.com/user/repo/blob/branch/other_file.md)
-*
-*
+*   [Tailwid CSS](https://tailwindcss.com/)
+*   [TocinoCode](https://tocinocode.com/)
 
-☄️☄️ Tocinocode
----
-
-Tocinocode is open-source collection of beautiful UI Components based on Tailwind that are easy to customize,
-anyone can combine to create your own style.
-
-
-## Programming with passion
-
-&#10004;Components that can be reused multiple times in your designs.
-
-&#10004;Pre-built web section blocks to make building new websites easy
-
-&#10004;Dark mode and responsive components
-
-As simple as copy and paste, and you can start configuring our components and creating new ones.
-
-
+## License
+The MIT License (MIT). Please see [License File](https://github.com/Jeycon/Netwind/blob/master/LICENSE) for more information.
 
