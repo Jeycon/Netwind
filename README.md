@@ -7,7 +7,7 @@ streaming videos
 
 
 
-![Image text](https://firebasestorage.googleapis.com/v0/b/tocinocode.appspot.com/o/global%2Fweb%20img%2Fdawdafafwf.PNG?alt=media&token=689b7485-2ed7-4e24-8bf2-17809ed09be3)
+![Image text](/asset/img/previewweb.png)
 
 ☄️☄️ Tocinocode
 ---
