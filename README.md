@@ -14,7 +14,9 @@ responsive and with dark mode.
 ## Resources
 
 *   [Tailwid CSS](https://tailwindcss.com/)
+*   [heroicons](https://heroicons.com/)
 *   [TocinoCode](https://tocinocode.com/)
+
 
 ## License
 The MIT License (MIT). Please see [License File](https://github.com/Jeycon/Netwind/blob/master/LICENSE) for more information.
